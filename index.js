@@ -4,7 +4,7 @@ const url = require('url');
 const slugify = require('slugify');
 const replaceTemplate = require('./modules/replaceTemplate');
 
-
+//  수정 0612
 //SERVER
 // const replaceTemplate = (temp, product) => {
 //     let output = temp.replace(/{%PRODUCTNAME%}/g, product.productName);
